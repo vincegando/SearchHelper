@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  
+  "name": "Search Helper Extension",
+  "description" : "Searches the selected site for the highlighted text",
+  "version": "1.0.0",
+
+  "permissions" : [
+  	"contextMenus",
+  	"tabs"
+  ],
+
+  "icons" : {
+  	"16" : "images/pic.png"
+  },
+
+  "background" : {"page" : "background.html"}
+
+}
