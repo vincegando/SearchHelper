@@ -12,7 +12,8 @@
 
   "icons" : {
   	"16" : "images/pic.png",
-  	"48" : "images/pic48.png"
+  	"48" : "images/pic48.png",
+    "128" : "images/pic128.png"
   },
 
   "background" : {"page" : "background.html"}
