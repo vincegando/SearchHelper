@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   
-  "name": "Search Helper Extension",
-  "description" : "Searches the selected site for the highlighted text",
+  "name": "Search Helper",
+  "description" : "Searches the selected site for the highlighted text. Supports searching Reddit, Facebook, YouTube, and Twitter.",
   "version": "1.0.0",
 
   "permissions" : [
