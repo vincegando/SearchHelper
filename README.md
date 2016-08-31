@@ -6,3 +6,5 @@ Search Helper is a Chrome Extension that allows you to search a website for curr
 4. Choose the website you want to search.
 
 This extension works for Reddit, Facebook, YouTube, and Twitter.
+
+http://bit.ly/SearchHelper
